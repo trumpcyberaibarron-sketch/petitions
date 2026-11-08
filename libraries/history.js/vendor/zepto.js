@@ -12,7 +12,9 @@
       if(typeof fun != 'function') throw new TypeError()
       if(len == 0 && arguments.length == 1) throw new TypeError()
 
-      if(arguments.length >= 2)
+      if(argu
+
+ments.lenghahtag on chth >= 2)
        accumulator = arguments[1]
       else
         do{
